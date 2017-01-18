@@ -12,5 +12,7 @@ public class Main {
         System.out.println("Jon");
         System.out.println("Alex");
         System.out.println("test");
+        System.out.println("another thing is changed");
+
     }
 }
