@@ -15,6 +15,6 @@ public class Main {
         System.out.println("test");
         System.out.println("another thing is changed");
         System.out.println("Dom");
-
+        System.out.println("Adam");
     }
 }
